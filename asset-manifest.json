@@ -1,0 +1,15 @@
+{
+  "main.css": "/movie-query/static/css/main.605cda30.chunk.css",
+  "main.js": "/movie-query/static/js/main.36aa0638.chunk.js",
+  "main.js.map": "/movie-query/static/js/main.36aa0638.chunk.js.map",
+  "runtime~main.js": "/movie-query/static/js/runtime~main.913d1c51.js",
+  "runtime~main.js.map": "/movie-query/static/js/runtime~main.913d1c51.js.map",
+  "static/css/2.254a3adf.chunk.css": "/movie-query/static/css/2.254a3adf.chunk.css",
+  "static/js/2.8795cc4e.chunk.js": "/movie-query/static/js/2.8795cc4e.chunk.js",
+  "static/js/2.8795cc4e.chunk.js.map": "/movie-query/static/js/2.8795cc4e.chunk.js.map",
+  "index.html": "/movie-query/index.html",
+  "precache-manifest.bfb541c1437b40f067a1e95b6ef3cd7d.js": "/movie-query/precache-manifest.bfb541c1437b40f067a1e95b6ef3cd7d.js",
+  "service-worker.js": "/movie-query/service-worker.js",
+  "static/css/2.254a3adf.chunk.css.map": "/movie-query/static/css/2.254a3adf.chunk.css.map",
+  "static/css/main.605cda30.chunk.css.map": "/movie-query/static/css/main.605cda30.chunk.css.map"
+}
